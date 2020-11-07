@@ -104,7 +104,7 @@ public int lcp(String s1, String s2) {
 ## Radix (Number of possible different chars in string)
 
 name | radix
-____ | _____
+---- | -----
 BINARY | 2
 ASCII | 128
 Extended ASCII | 256
